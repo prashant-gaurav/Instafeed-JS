@@ -1,2 +1,2 @@
 # Instafeed-JS
-Simple Instagram feed Example for website.
+Display your instagram photos on your site.
