@@ -9,7 +9,7 @@ const userFeed = new Instafeed({
     resolution: 'standard_resolution',
     template: '<a href="{{link}}" target="_blank" id="{{id}}"><img src="{{image}}" ></img></a>',
     sortBy: 'most-recent',
-    limit: false,  // you can limit np of post ie 6
+    limit: false,  // you can limit no of post ie 6
     links: false
 });
 userFeed.run();
